@@ -1,9 +1,7 @@
 # BlackJack
-
 A simple command-line implementation of the classic BlackJack card game in Java.
 
 ## Features
-
 - Single-player game against a dealer.
 - Standard BlackJack rules: Hit, Stand, Double Down, Split (if applicable).
 - Automatic shuffling and dealing.
@@ -15,7 +13,7 @@ A simple command-line implementation of the classic BlackJack card game in Java.
 
 ## Installation
 
-1. Clone the repository:git clone https://github.com/yourusername/BlackJack.git
+1. Clone the repository:git clone https://github.com/JasselD/BlackJack.git
 
 2. Navigate to the project directory: cd BlackJack
 

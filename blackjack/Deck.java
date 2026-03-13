@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.io.InputStreamReader;
 /**
  *
- * @author sanderengelthilo
+ * @author jasseldoong
  */
 public class Deck {
 	// Initialize list of cards

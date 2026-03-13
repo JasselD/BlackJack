@@ -1,7 +1,7 @@
 
 /**
  *
- * @author sanderengelthilo
+ * @author jasseldoong
  */
 public class Card {
 	private String rank;

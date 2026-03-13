@@ -2,7 +2,6 @@
 /**
  *
  * @author Jassel Doong
- * @author Sander Thilo
  */
 public class Gamestate {
     

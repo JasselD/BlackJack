@@ -3,7 +3,6 @@
 /**
  *
  * @author Jassel Doong
- * @author Sander Thilo
  */
 public class OutputHandler {
 	public void displaySum(Player player) { // Used for both player and dealer
